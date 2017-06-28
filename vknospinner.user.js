@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         VK Spinner Killer
-// @version      1.0.0
+// @name         VK No Spinner
+// @version      1.0.1
 // @description  Replaces fidget spinner image with proper loading spinner image
 // @author       bill876
 // @homepage     https://github.com/bill876/vknospinner
